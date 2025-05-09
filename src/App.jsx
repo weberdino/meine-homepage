@@ -14,7 +14,7 @@ function App() {
       {/* Hero */}
       <section className="min-h-screen flex flex-col justify-center items-center text-center px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-4" data-aos="fade-down">
-          Hi, ich bin <span className="text-indigo-400">Max Mustermann</span>
+          Hi, ich bin <span className="text-indigo-400">Dino Weber</span>
         </h1>
         <h2 className="text-2xl md:text-3xl mb-6" data-aos="fade-up">
           Webentwickler & Coding-Enthusiast
