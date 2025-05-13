@@ -14,13 +14,13 @@ function App() {
       {/* Hero */}
       <section className="min-h-screen flex flex-col justify-center items-center text-center px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-4" data-aos="fade-down">
-          Hi, ich bin <span className="text-indigo-400">Dino Weber</span>
+          Hi, ich bin <span className="text-indigo-400">Dino</span>
         </h1>
         <h2 className="text-2xl md:text-3xl mb-6" data-aos="fade-up">
-          Junior Entwickler
+          Anwendungsentwickler mit Fokus auf Backend-Logik, APIs und Datenmodelle
         </h2>
         <p className="max-w-xl mb-8" data-aos="fade-up">
-          Ich entwickle gerne Funktionen und erstelle Logiken.
+          Ich entwickle gern skalierbare Backend-Lösungen und API-Schnittstellen für Webanwendungen
         </p>
         <a href="#kontakt" className="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 px-6 rounded-full transition" data-aos="zoom-in">
           Kontakt aufnehmen
@@ -32,7 +32,7 @@ function App() {
         <h2 className="text-3xl font-bold mb-6">Über mich</h2>
         <p className="max-w-3xl">
           Ich bin ein heranstrebender Fullstack Entwickler,
-          Neben meiner Arbeit als Software Engineer beschäftige ich mich gerne mit Game Development und kreativen Coding-Experimenten.
+          Neben meiner Arbeit als Software Engineer beschäftige ich mich gerne mit Game Development.
         </p>
       </section>
 
@@ -44,7 +44,7 @@ function App() {
           <div>
             <h3 className="text-2xl font-semibold mb-2">Portfolio-Website</h3>
             <p className="mb-2">Meine eigene Portfolio-Website erstellt mit Vite + React.</p>
-            <a href="https://github.com/dein-github/portfolio" target="_blank" rel="noopener noreferrer" className="text-indigo-400 underline">
+            <a href="https://github.com/weberdino/meine-homepage" target="_blank" rel="noopener noreferrer" className="text-indigo-400 underline">
               Code auf GitHub ansehen
             </a>
           </div>
