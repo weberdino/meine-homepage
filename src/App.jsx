@@ -20,7 +20,7 @@ function App() {
           Webentwickler & Coding-Enthusiast
         </h2>
         <p className="max-w-xl mb-8" data-aos="fade-up">
-          Ich entwickle moderne Webanwendungen und kreative Projekte mit Leidenschaft für sauberen Code und Design.
+          Ich entwickle gerne Funktionen um diese mit .
         </p>
         <a href="#kontakt" className="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 px-6 rounded-full transition" data-aos="zoom-in">
           Kontakt aufnehmen
@@ -31,8 +31,8 @@ function App() {
       <section id="ueber-mich" className="py-20 px-6 md:px-20" data-aos="fade-up">
         <h2 className="text-3xl font-bold mb-6">Über mich</h2>
         <p className="max-w-3xl">
-          Ich bin ein leidenschaftlicher Entwickler mit Fokus auf Frontend- und Backend-Technologien. 
-          Neben meiner Arbeit an Webprojekten beschäftige ich mich gerne mit Game Development und kreativen Coding-Experimenten.
+          Ich bin ein heranstrebender Fullstack Entwickler
+          Neben meiner Arbeit als Software Enginneer beschäftige ich mich gerne mit Game Development und kreativen Coding-Experimenten.
         </p>
       </section>
 
@@ -50,9 +50,9 @@ function App() {
           </div>
 
           <div>
-            <h3 className="text-2xl font-semibold mb-2">GameDev-Projekt: "Space Explorer"</h3>
-            <p className="mb-2">Ein kleines 2D-Game entwickelt mit Unity, Fokus auf Physik-Engine und User-Interface.</p>
-            <a href="https://github.com/dein-github/space-explorer" target="_blank" rel="noopener noreferrer" className="text-indigo-400 underline">
+            <h3 className="text-2xl font-semibold mb-2">GameDev-Projekt: "Slayer"</h3>
+            <p className="mb-2">Ein 3D-Game Projekt entwickelt mit Unity, mit verschiedenen Systemen entwickelt mit der Hinsicht diese Modular und Skalierbar zu gestalten.</p>
+            <a href="https://github.com/dein-github/" target="_blank" rel="noopener noreferrer" className="text-indigo-400 underline">
               Game-Code auf GitHub ansehen
             </a>
           </div>
@@ -63,6 +63,9 @@ function App() {
       <section id="skills" className="py-20 px-6 md:px-20" data-aos="fade-up">
         <h2 className="text-3xl font-bold mb-10">Skills</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 text-lg">
+          <li>Unity /C#</li>
+          <li>OOP, PHP und Python</li>
+          <li> --- </li>
           <li>React / Vite / JavaScript</li>
           <li>Node.js / Express.js</li>
           <li>Unity / Godot Game Development</li>
