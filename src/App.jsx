@@ -32,7 +32,7 @@ function App() {
         <h2 className="text-3xl font-bold mb-6">Über mich</h2>
         <p className="max-w-3xl">
           Ich bin ein heranstrebender Fullstack Entwickler
-          Neben meiner Arbeit als Software Enginneer beschäftige ich mich gerne mit Game Development und kreativen Coding-Experimenten.
+          Neben meiner Arbeit als Software Engineer beschäftige ich mich gerne mit Game Development und kreativen Coding-Experimenten.
         </p>
       </section>
 
