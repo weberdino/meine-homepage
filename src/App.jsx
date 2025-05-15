@@ -14,10 +14,11 @@ function App() {
           <nav style={{ display: 'flex', gap: '1rem', padding: '1rem' }}>
             <Link to="/">Home</Link>
             <Link to="/3d">3D Page</Link>
+            <Link to="/test">Test</Link>
           </nav>
       
       {/* Hero */}
-      <section className="bg-gradient-to-b from-pink-900 via-yellow-800 to-black min-h-screen flex flex-col justify-center items-center text-center px-4">
+      <section className="bg-gradient-to-b from-pink-500 via-yellow-800 to-black min-h-screen flex flex-col justify-center items-center text-center px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-4" data-aos="fade-down">
           Hi, ich bin <span className="text-indigo-400">Dino</span>
         </h1>

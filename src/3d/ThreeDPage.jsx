@@ -3,7 +3,6 @@ import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Sky, KeyboardControls } from '@react-three/drei';
 import { Physics, RigidBody } from '@react-three/rapier';
 import { useRef } from 'react';
-import Ground from './Ground';
 import * as THREE from 'three';
 
 function Player() {
