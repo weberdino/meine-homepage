@@ -13,8 +13,6 @@ function App() {
     <div >
           <nav style={{ display: 'flex', gap: '1rem', padding: '1rem' }}>
             <Link to="/">Home</Link>
-            <Link to="/3d">3D Page</Link>
-            <Link to="/test">Test</Link>
           </nav>
       
       {/* Hero */}
