@@ -16,7 +16,7 @@ function App() {
           </nav>
       
       {/* Hero */}
-      <section className="bg-gradient-to-b from-pink-500 via-yellow-800 to-black min-h-screen flex flex-col justify-center items-center text-center px-4">
+      <section className="bg-gradient-to-b from-pink-500 to-yellow-800  min-h-screen flex flex-col justify-center items-center text-center px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-4" data-aos="fade-down">
           Hi, ich bin <span className="text-indigo-400">Dino</span>
         </h1>
@@ -26,7 +26,7 @@ function App() {
         <p className="max-w-xl mb-8" data-aos="fade-up">
           Ich entwickle gern skalierbare Backend-Lösungen und API-Schnittstellen für Webanwendungen
         </p>
-        <a href="#kontakt" className="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 px-6 rounded-full transition" data-aos="zoom-in">
+        <a href="#kontakt" className="bg-indigo-500 hover:bg-indigo-600 py-3 px-6 rounded-full transition" data-aos="zoom-in">
           Kontakt aufnehmen
         </a>
       </section>
@@ -35,7 +35,7 @@ function App() {
       <section id="ueber-mich" className="py-20 px-6 md:px-20" data-aos="fade-up">
         <h2 className="text-3xl font-bold mb-6">Über mich</h2>
         <p className="max-w-3xl mb-6 text-lg leading-relaxed">
-          Hi, ich bin Dino – ich entwickle gern durchdachte Backend-Systeme, baue APIs und kümmere mich darum, 
+          Hi, ich entwickle gern durchdachte Backend-Systeme, baue APIs und kümmere mich darum, 
           dass Daten dort ankommen, wo sie gebraucht werden. Besonders Spaß macht mir, komplexe Logik 
           verständlich und sauber umzusetzen. <br /><br />
           Nebenbei interessiere ich mich auch für Game- und 3D-Development mit Unity oder Blender – einfach, 
@@ -103,7 +103,7 @@ function App() {
       </section>
 
       {/* Kontakt */}
-      <section id="kontakt" className="py-20 px-6 md:px-20 text-center bg-gray-800" data-aos="fade-up">
+      <section id="kontakt" className="py-20 px-6 md:px-20 text-center">
         <h2 className="text-3xl font-bold mb-6">Kontakt</h2>
         <p className="mb-4">Schreib mir eine E-Mail an:</p>
         <a href="mailto:weber.dino@gmail.com" className="text-indigo-400 underline">
